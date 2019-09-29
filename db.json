@@ -64,7 +64,7 @@
 		"overallScore": 10
 	}, {
 		"id": 3,
-		"name": "Vegetarian Lasagna",
+		"name": "Vegetarian Lasagne",
 		"ingredients": [{
 			"id": 11,
 			"name": "Pasta",
@@ -79,6 +79,14 @@
 			"score": 5
 		}],
 		"overallScore": 5
+	}, {
+		"id": 4,
+		"name": "Banana",
+		"ingredients": [{
+			"id": 14,
+			"name": "Banana",
+			"score": 4
+		}],
+		"overallScore": 4
 	}]
-
 }
